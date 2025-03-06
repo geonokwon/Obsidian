@@ -2,5 +2,7 @@
   "execute-code",
   "obsidian-importer",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "code-styler",
+  "obsidian-excalidraw-plugin"
 ]

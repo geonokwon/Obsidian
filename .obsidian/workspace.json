@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf24bfc7184e5610",
+        "id": "e180980714b470ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ade7c6f7c7c4e118",
+            "id": "1ad7c63584d8619e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TODO List/MBTI Web Project.md",
-                "mode": "source",
-                "source": false
+                "aFile": "TODO List/MBTI Web Project.md",
+                "bFile": "TODO List/MBTI Web Project.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "MBTI Web Project"
+              "icon": "diff",
+              "title": "Diff: MBTI Web Project"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO List/MBTI Web Project.md",
+                "file": "Code/React/MBTI 웹 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "MBTI Web Project 의 백링크"
+              "title": "MBTI 웹 만들기 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO List/MBTI Web Project.md",
+                "file": "Code/React/MBTI 웹 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MBTI Web Project 의 나가는 링크"
+              "title": "MBTI 웹 만들기 의 나가는 링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO List/MBTI Web Project.md",
+                "file": "2025-03-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MBTI Web Project 의 개요"
+              "title": "2025-03-06 의 개요"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 726.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +177,26 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ab5c9842f6802521",
+  "active": "1ad7c63584d8619e",
   "lastOpenFiles": [
+    "TODO List/TODO.md",
+    "기획/영상.md",
+    "Code/React/MBTI 웹 만들기.md",
+    "Excalidraw/Drawing 2025-03-06 14.35.21.excalidraw.md",
+    "2025-03-06.md",
+    "Excalidraw/Drawing 2025-03-06 15.21.35.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-03-06 14.13.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-06 10.32.38.excalidraw.md",
+    "기획",
+    "Code/React",
+    "무제/무제",
+    "Code",
     "환영합니다!.md",
-    "TODO List/MBTI Web Project.md",
     "TODO List"
   ]
 }
