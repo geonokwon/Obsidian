@@ -257,5 +257,3 @@ const ResultView = () => {
 export default ResultView;
 ```
 
-
-ㅁㅁㅁㅁ

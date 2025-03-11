@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e180980714b470ef",
+        "id": "c0bd9aef30a441d2",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad7c63584d8619e",
+            "id": "7ebd39a821cbade2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "TODO List/MBTI Web Project.md",
-                "bFile": "TODO List/MBTI Web Project.md",
-                "aRef": ""
+                "file": "기획/영상.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: MBTI Web Project"
+              "icon": "lucide-file",
+              "title": "영상"
             }
           }
         ]
@@ -181,10 +181,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ad7c63584d8619e",
+  "active": "7ebd39a821cbade2",
   "lastOpenFiles": [
-    "TODO List/TODO.md",
+    "무제.md",
+    "무제 1.md",
     "기획/영상.md",
+    "TODO List/TODO.md",
     "Code/React/MBTI 웹 만들기.md",
     "Excalidraw/Drawing 2025-03-06 14.35.21.excalidraw.md",
     "2025-03-06.md",
